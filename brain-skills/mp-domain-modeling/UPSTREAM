@@ -1,0 +1,25 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Upstream SKILL.md: skills/engineering/domain-modeling/SKILL.md
+Local source: [SKILL.md](../../skills/engineering/domain-modeling/SKILL.md)
+Pinned source: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/domain-modeling/SKILL.md
+
+Исходные методы:
+1. Активное уточнение предметной модели
+2. Проверка конфликта терминов с каноном
+3. Точные определения и отвергаемые синонимы
+4. Конкретные крайние сценарии отношений
+5. Сверка модели с кодом
+6. Немедленная запись принятого термина
+7. Три совместных критерия значимого ADR
+8. Разделение контекстов и отношений
+
+Конкретные местные изменения:
+1. Нет автоматического GLOSSARY.md, GLOSSARY-MAP.md и docs/adr
+2. Термины и сценарии в README Постановка, выборы в Решения
+3. Канонические факты читаются, не копируются в новый словарь
+4. Вопросы по одному; стадии 1С сохраняются
+
+Справки адаптированы из того же commit:
+- [GLOSSARY-FORMAT.md](../../skills/engineering/domain-modeling/GLOSSARY-FORMAT.md) -> [GLOSSARY-FORMAT.md](GLOSSARY-FORMAT.md)
+- [ADR-FORMAT.md](../../skills/engineering/domain-modeling/ADR-FORMAT.md) -> [ADR-FORMAT.md](ADR-FORMAT.md)

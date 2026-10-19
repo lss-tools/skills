@@ -1,0 +1,13 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Upstream SKILL.md: skills/engineering/grill-with-docs/SKILL.md
+Local source: [SKILL.md](../../skills/engineering/grill-with-docs/SKILL.md)
+Pinned source: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/grill-with-docs/SKILL.md
+
+Исходные методы:
+1. Композиция grilling и domain-modeling
+
+Конкретные местные изменения:
+1. Агрегат явно отдаёт работу двум атомарным скилам
+2. Зависимости читаются по ../mp-grilling/SKILL.md и ../mp-domain-modeling/SKILL.md
+3. Документы задачи Brain вместо ADR и glossary

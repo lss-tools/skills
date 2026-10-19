@@ -1,0 +1,17 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Source: skills/engineering/tdd/SKILL.md
+Source URL: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/tdd/SKILL.md
+References:
+  skills/engineering/tdd/tests.md
+  skills/engineering/tdd/mocking.md
+
+Сохранённые методы:
+  Малые вертикальные срезы red → green и независимый эталон
+  Публичная поверхность проверки, переживающая замену реализации
+  Примеры checkout, create/getUser, calculateTotal, внедрение paymentClient и конкретные операции вместо generic fetch
+
+Изменения адаптации Brain:
+  Принятый план заменяет повторное согласование; один существенный вопрос при неопределённой границе
+  Применимость зависит от доступного контура; yaxunit-test-writer и testpilot сохраняют свои контракты
+  Нет обязательных тестов каждой правки; архитектурный рефакторинг остаётся отдельным этапом

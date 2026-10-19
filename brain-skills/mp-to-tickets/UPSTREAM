@@ -1,0 +1,23 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Upstream SKILL.md: skills/engineering/to-tickets/SKILL.md
+Local source: [SKILL.md](../../skills/engineering/to-tickets/SKILL.md)
+Pinned source: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/to-tickets/SKILL.md
+
+Исходные методы:
+1. Сквозные tracer-bullet части
+2. Самостоятельная демонстрация/проверка каждого блока
+3. Размер одного свежего рабочего контекста
+4. Только реальные blocking edges
+5. Необходимое предварительное упрощение кода
+6. Ревью размера и зависимостей
+7. Исключение широких механических правок через expand-contract
+8. Партии потребителей и общий финальный integrate-and-verify при необходимости
+9. Исполнение по доступному фронту
+
+Конкретные местные изменения:
+1. Один plan.md вместо issue и отдельных ticket files
+2. Не вводит новый status tracking
+3. Согласование по одному вопросу с учётом имеющейся авторизации
+4. Не создаёт интеграционные ветки и не запускает агентов автоматически
+5. architect/develop 1С не заменяются

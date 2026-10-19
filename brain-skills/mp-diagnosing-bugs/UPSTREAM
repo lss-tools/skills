@@ -1,0 +1,16 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Source: skills/engineering/diagnosing-bugs/SKILL.md
+Source URL: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/diagnosing-bugs/SKILL.md
+References:
+  skills/engineering/diagnosing-bugs/scripts/hitl-loop.template.sh
+
+Сохранённые методы:
+  Точный красный сигнал; десять способов построить контур; ускорение и детерминизация
+  Минимизация по одному элементу; 3–5 ранжированных опровержимых гипотез
+  Однопараметрические опыты, уникальный префикс логов, замер до исправления, исходный и регрессионный прогон, cleanup
+
+Изменения адаптации Brain:
+  HITL Bash template заменён русским переносимым протоколом step/capture с теми же этапами
+  В 1С маршрутизация на действующие bsl-analyzer/testpilot/серверный контур; недоступность базы фиксируется явно
+  Нет фиктивного теста на слишком узкой точке подмены; временные материалы Brain в D:/Brain/temp

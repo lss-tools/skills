@@ -1,0 +1,17 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Source: skills/productivity/writing-for-agents/SKILL.md
+Source URL: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/productivity/writing-for-agents/SKILL.md
+References:
+  skills/productivity/writing-for-agents/SKILL-MECHANICS.md
+
+Сохранённые методы:
+  Указатели и разные ветви чтения; две нагрузки
+  Иерархия шагов и справки, progressive disclosure, соседство связанных смыслов
+  Ясность и требовательность критерия завершения, опорные слова и положительная цель
+  Один канон, среда как источник, pruning, устаревшие слои и no-ops
+
+Изменения адаптации Brain:
+  Механика Brain: пятичастное описание <=700, адресуемость, точное разрешение зависимости через индекс
+  Правится канон; карточки только по авторизации; сборный AGENTS и представления не правятся вручную
+  Сохранены различия разделения по последовательности и вызову; агрегат выбора не подменяет исполнителя

@@ -1,0 +1,16 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Source: skills/engineering/improve-codebase-architecture/SKILL.md
+Source URL: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/improve-codebase-architecture/SKILL.md
+References:
+  skills/engineering/improve-codebase-architecture/HTML-REPORT.md
+
+Сохранённые методы:
+  Область по поручению или горячим местам истории; наблюдаемое архитектурное трение
+  Тест удаления; сравнение кандидатов до выбора интерфейса
+  Карточки до/после, сила рекомендации, дерево уточнения выбранного кандидата
+
+Изменения адаптации Brain:
+  Словарь через mp-codebase-design; предметные термины и решения из Brain вместо обязательных GLOSSARY/ADR
+  HTML стал необязательным, сохранены пять визуальных паттернов; временный выход D:/Brain/temp
+  Вопросы по одному; mp-grilling/mp-domain-modeling читаются по относительному пути; делегирование только по действующей авторизации

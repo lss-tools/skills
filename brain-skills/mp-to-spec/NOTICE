@@ -1,0 +1,5 @@
+﻿Original work: Matt Pocock, Copyright (c) 2026 Matt Pocock.
+Source: https://github.com/mattpocock/skills
+License: MIT; exact upstream text is in LICENSE.
+Brain adaptation: русская адаптация для Brain, задача 1231, 19.10.2026.
+Изменены документная модель, адресация зависимостей и границы применения; исходный метод сохранён.

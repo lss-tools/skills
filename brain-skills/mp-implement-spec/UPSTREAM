@@ -1,0 +1,15 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Source: skills/engineering/implement-spec/SKILL.md
+Source URL: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/implement-spec/SKILL.md
+References:
+
+Сохранённые методы:
+  Граф блокирующих зависимостей и пересчёт готового фронта
+  Контекст через указатели; проверка общей базы и интеграционной совместимости
+  Независимая приёмка, общее ревью, исправление находок и завершение всего объёма
+
+Изменения адаптации Brain:
+  README и единственный plan.md заменяют issue tracker; сохраняется контракт существующего оркестратора
+  mp-tdd читается по относительному пути; code-review заменён точным индексным разрешением ao-code-review-and-quality, для 1С review-1c
+  Нет автоматических веток/PR/слияний/reset; develop остаётся исполнением 1С; последовательный режим допустим

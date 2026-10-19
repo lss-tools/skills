@@ -1,0 +1,25 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Upstream SKILL.md: skills/engineering/wayfinder/SKILL.md
+Local source: [SKILL.md](../../skills/engineering/wayfinder/SKILL.md)
+Pinned source: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/wayfinder/SKILL.md
+
+Исходные методы:
+1. Назначение маршрута перед картой
+2. Карта решений вместо плана исполнения
+3. Обход в ширину и доступный фронт
+4. Индекс с детализацией по необходимости
+5. Четыре типа research/prototype/grilling/task
+6. Человеческий выбор не подменяется агентом
+7. Fog of war: точность вопроса отделена от доступности ответа
+8. Отличие неясной области от исключённой
+9. Одна решаемая ветвь за сессию с исключением исследований
+10. Постепенное уточнение карты и пересчёт зависимостей
+
+Конкретные местные изменения:
+1. Карта в существующих разделах README без child issues
+2. Нет обязательного research/prototype Skill и субагента
+3. Зависимые скилы читаются по относительным путям
+4. Штатная координация вместо нового claim/state механизма
+5. Авторизация на исполнение сохраняется; один plan.md
+6. Стадии 1С не заменяются

@@ -1,0 +1,14 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Source: skills/productivity/handoff/SKILL.md
+Source URL: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/productivity/handoff/SKILL.md
+References:
+
+Сохранённые методы:
+  Сжатая передача, адаптированная к цели следующего сеанса
+  Указатели вместо копий артефактов; рекомендуемые скилы; редактирование секретов
+
+Изменения адаптации Brain:
+  Только явный внешний перенос, обычный маршрут Brain использует README и next_action
+  Сообщение по умолчанию; файл только как временный экспорт D:/Brain/temp
+  Имена скилов проверяются через маршрут/индекс и читается канон; постоянный второй журнал не создаётся

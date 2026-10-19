@@ -1,0 +1,28 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Upstream SKILL.md: skills/engineering/triage/SKILL.md
+Local source: [SKILL.md](../../skills/engineering/triage/SKILL.md)
+Pinned source: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/triage/SKILL.md
+
+Исходные методы:
+1. Категория дефект/улучшение отделена от состояния готовности
+2. Просмотр очереди по необработанным, текущей оценке, новым ответам
+3. Дедупликация по предметному смыслу
+4. Проверка уже существующей реализации
+5. Проверка прежнего отказа
+6. Верификация до интервью
+7. Бриф с текущим/требуемым поведением и критериями
+8. Особенности предложенного diff
+9. Возобновление без повторных вопросов
+10. Различение отказа, отсрочки и реализованного поведения
+
+Конкретные местные изменения:
+1. Смысловые состояния не меняют статусы Brain
+2. Никакой публикации комментариев и внешних меток
+3. Бриф в README Постановка; отказы в существующих Решениях, не .out-of-scope
+4. Адресные зависимости через чтение SKILL.md
+5. Текущая авторизация имеет приоритет
+
+Справки адаптированы из того же commit:
+- [AGENT-BRIEF.md](../../skills/engineering/triage/AGENT-BRIEF.md) -> [AGENT-BRIEF.md](AGENT-BRIEF.md)
+- [OUT-OF-SCOPE.md](../../skills/engineering/triage/OUT-OF-SCOPE.md) -> [OUT-OF-SCOPE.md](OUT-OF-SCOPE.md)

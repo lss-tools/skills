@@ -1,0 +1,19 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Source: skills/productivity/teach/SKILL.md
+Source URL: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/productivity/teach/SKILL.md
+References:
+  skills/productivity/teach/MISSION-FORMAT.md
+  skills/productivity/teach/RESOURCES-FORMAT.md
+  skills/productivity/teach/LEARNING-RECORD-FORMAT.md
+  skills/productivity/teach/GLOSSARY-FORMAT.md
+
+Сохранённые методы:
+  Миссия, зона ближайшего развития, один малый наблюдаемый успех
+  Знание/навык/опыт; извлечение из памяти, интервалы, чередование; быстрая обратная связь
+  Четыре учебных формата; освоение только по доказательству; словарь после понимания; источники и сообщества
+
+Изменения адаптации Brain:
+  Первый выход в чате; постоянные lessons/records/HTML только в выбранном законном учебном каталоге
+  Форматы собраны в одном reference без предписания новых корневых путей
+  Переиспользование assets при реальном повторении, без обязательной библиотеки компонентов для единственного урока

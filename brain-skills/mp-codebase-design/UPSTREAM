@@ -1,0 +1,27 @@
+﻿Repository: https://github.com/mattpocock/skills
+Commit: 49dd158d1076134a641b33efb035946536778336
+Upstream SKILL.md: skills/engineering/codebase-design/SKILL.md
+Local source: [SKILL.md](../../skills/engineering/codebase-design/SKILL.md)
+Pinned source: https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/codebase-design/SKILL.md
+
+Исходные методы:
+1. Восемь терминов deep-module vocabulary
+2. Глубина как отдача интерфейса, не отношение строк
+3. Тест мысленного удаления модуля
+4. Одна внешняя поверхность и приватные точки подмены
+5. Реальные адаптеры оправдывают seam
+6. Внедрение зависимостей и проверяемый результат
+7. Четыре категории зависимостей
+8. Замена избыточных нижних проверок поведением через интерфейс
+9. Design It Twice: минимум три радикально разных ограничения и сравнение
+
+Конкретные местные изменения:
+1. Русские последовательные термины с исходными английскими именами
+2. Результат в README Решения и существующий plan.md
+3. Параллельные агенты только при разрешённом делегировании; допустимо последовательное сравнение
+4. Старые проверки удаляются после доказанного покрытия контрактов
+5. Нет обязательного HTML и подмены architect 1С
+
+Справки адаптированы из того же commit:
+- [DEEPENING.md](../../skills/engineering/codebase-design/DEEPENING.md) -> [DEEPENING.md](DEEPENING.md)
+- [DESIGN-IT-TWICE.md](../../skills/engineering/codebase-design/DESIGN-IT-TWICE.md) -> [DESIGN-IT-TWICE.md](DESIGN-IT-TWICE.md)
